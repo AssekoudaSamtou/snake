@@ -1,1 +1,1 @@
-# snake is a simple modeste game for trainning my self
+# snake is a simple modeste game for trainning myself
